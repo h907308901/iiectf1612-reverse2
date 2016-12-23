@@ -1,0 +1,8 @@
+*.db
+/x64/
+/Debug
+/Release/
+/Reverse1/x64/
+/Reverse1/Debug/
+/Reverse1/Release/
+/.vs/
